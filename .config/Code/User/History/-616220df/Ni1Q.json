@@ -1,0 +1,85 @@
+[
+  {
+    "name": "To Kill a Mockingbird",
+    "category": "Fiction",
+    "rent per day": 2.5
+  },
+  {
+    "name": "The Great Gatsby",
+    "category": "Fiction",
+    "rentperday": 3.0
+  },
+  {
+    "name": "Pride and Prejudice",
+    "category": "Fiction",
+    "rent per day": 2.0
+  },
+  {
+    "name": "The Lord of the Rings",
+    "category": "Fantasy",
+    "rent per day": 4.0
+  },
+  {
+    "name": "Harry Potter and the Philosopher's Stone",
+    "category": "Fantasy",
+    "rent per day": 3.5
+  },
+  { "name": "The Hobbit", "category": "Fantasy", "rent per day": 3.0 },
+  {
+    "name": "The Diary of a Young Girl",
+    "category": "Non-Fiction",
+    "rent per day": 2.0
+  },
+  {
+    "name": "The Autobiography of Malcolm X",
+    "category": "Non-Fiction",
+    "rent per day": 3.0
+  },
+  {
+    "name": "The 7 Habits of Highly Effective People",
+    "category": "Self-Help",
+    "rent per day": 2.5
+  },
+  {
+    "name": "How to Win Friends and Influence People",
+    "category": "Self-Help",
+    "rent per day": 3.0
+  },
+  {
+    "name": "The Lean Startup",
+    "category": "Business",
+    "rent per day": 2.0
+  },
+  { "name": "Good to Great", "category": "Business", "rent per day": 3.0 },
+  {
+    "name": "The 4-Hour Work Week",
+    "category": "Business",
+    "rent per day": 2.5
+  },
+  {
+    "name": "Think and Grow Rich",
+    "category": "Business",
+    "rent per day": 2.0
+  },
+  {
+    "name": "The Hitchhiker's Guide to the Galaxy",
+    "category": "Science Fiction",
+    "rent per day": 3.0
+  },
+  {
+    "name": "Ender's Game",
+    "category": "Science Fiction",
+    "rent per day": 3.5
+  },
+  {
+    "name": "Ready Player One",
+    "category": "Science Fiction",
+    "rent per day": 2.5
+  },
+  {
+    "name": "Snow Crash",
+    "category": "Science Fiction",
+    "rent per day": 3.0
+  },
+  { "name": "Dune", "category": "Science Fiction", "rent per day": 2.0 }
+]

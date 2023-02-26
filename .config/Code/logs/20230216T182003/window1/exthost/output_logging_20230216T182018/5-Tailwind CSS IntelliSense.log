@@ -1,0 +1,7 @@
+[Global] Creating projects: [{"folder":"/home/anton/VSCode/Projects/Web3/calc-ui-web3","configPath":"/home/anton/VSCode/Projects/Web3/calc-ui-web3/client/tailwind.config.js","isUserConfigured":false,"documentSelector":[{"pattern":"/home/anton/VSCode/Projects/Web3/calc-ui-web3/client/tailwind.config.js","priority":0},{"pattern":"/home/anton/VSCode/Projects/Web3/calc-ui-web3/client/src/**/*.{js,jsx,ts,tsx}","priority":1},{"pattern":"/home/anton/VSCode/Projects/Web3/calc-ui-web3/client/**","priority":3},{"pattern":"/home/anton/VSCode/Projects/Web3/calc-ui-web3/**","priority":5}]}]
+[Global] Adding watch patterns: /home/anton/VSCode/Projects/Web3/calc-ui-web3/client/tailwind.config.js, /home/anton/VSCode/Projects/Web3/calc-ui-web3/client, /home/anton/VSCode/Projects/Web3/calc-ui-web3
+[client/tailwind.config.js] Initializing...
+[client/tailwind.config.js] Loaded Tailwind CSS config file: /home/anton/VSCode/Projects/Web3/calc-ui-web3/client/tailwind.config.js
+[client/tailwind.config.js] Loaded postcss v8.4.21: /home/anton/VSCode/Projects/Web3/calc-ui-web3/client/node_modules/postcss
+[client/tailwind.config.js] Loaded tailwindcss v3.2.6: /home/anton/VSCode/Projects/Web3/calc-ui-web3/client/node_modules/tailwindcss
+[client/tailwind.config.js] Building...

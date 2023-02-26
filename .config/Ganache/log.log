@@ -1,0 +1,57 @@
+[2023-02-11 23:50:12.362] [info] Checking for update
+[2023-02-11 23:50:12.432] [info] Generated new staging user ID: f3e07602-7427-57b6-8e2c-f5eb68064933
+[2023-02-11 23:50:14.741] [error] Error: Error: Cannot find latest-linux.yml in the latest release artifacts (https://github.com/trufflesuite/ganache/releases/download/v7.7.4/latest-linux.yml): HttpError: 404 
+"method: GET url: https://github.com/trufflesuite/ganache/releases/download/v7.7.4/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons actual status maybe not reported, but 404.\n"
+Headers: {
+  "status": "404",
+  "server": "GitHub.com",
+  "date": "Sat, 11 Feb 2023 18:20:14 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "vary": "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "content-length": "29",
+  "x-github-request-id": "E8F2:44DB:6E044:90F80:63E7DC5D"
+}
+    at createHttpError (/tmp/.mount_ganachGcTan4/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:84:10)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_ganachGcTan4/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:168:14)
+    at ClientRequest.<anonymous> (/tmp/.mount_ganachGcTan4/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:134:16)
+    at ClientRequest.emit (events.js:210:5)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2510:12)
+    at SimpleURLLoaderWrapper.emit (events.js:210:5)
+    at newError (/tmp/.mount_ganachGcTan4/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/index.js:212:17)
+    at GitHubProvider.getLatestVersion (/tmp/.mount_ganachGcTan4/resources/app.asar/webpack:/node_modules/electron-updater/out/providers/GitHubProvider.js:134:41)
+[2023-02-12 13:35:33.587] [info] Checking for update
+[2023-02-12 13:35:35.522] [error] Error: Error: Cannot find latest-linux.yml in the latest release artifacts (https://github.com/trufflesuite/ganache/releases/download/v7.7.4/latest-linux.yml): HttpError: 404 
+"method: GET url: https://github.com/trufflesuite/ganache/releases/download/v7.7.4/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons actual status maybe not reported, but 404.\n"
+Headers: {
+  "status": "404",
+  "server": "GitHub.com",
+  "date": "Sun, 12 Feb 2023 08:05:35 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "vary": "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "content-length": "29",
+  "x-github-request-id": "D02A:69DC:9DAD:B78DF:63E89DCE"
+}
+    at createHttpError (/tmp/.mount_ganachqv95pA/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:84:10)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_ganachqv95pA/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:168:14)
+    at ClientRequest.<anonymous> (/tmp/.mount_ganachqv95pA/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:134:16)
+    at ClientRequest.emit (events.js:210:5)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2510:12)
+    at SimpleURLLoaderWrapper.emit (events.js:210:5)
+    at newError (/tmp/.mount_ganachqv95pA/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/index.js:212:17)
+    at GitHubProvider.getLatestVersion (/tmp/.mount_ganachqv95pA/resources/app.asar/webpack:/node_modules/electron-updater/out/providers/GitHubProvider.js:134:41)

@@ -1,0 +1,27 @@
+2023-02-16 18:20:27.813 [info] Log level: Info
+2023-02-16 18:20:27.813 [info] Validating found git in: "git"
+2023-02-16 18:20:27.813 [info] Using git "2.34.1" from "git"
+2023-02-16 18:20:27.813 [info] > git rev-parse --show-toplevel [6ms]
+2023-02-16 18:20:27.813 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-02-16 18:20:27.830 [info] > git rev-parse --show-toplevel [2341ms]
+2023-02-16 18:20:27.847 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-02-16 18:20:27.858 [info] Open repository: /home/anton/VSCode/Projects/Web3/calc-ui-web3/client
+2023-02-16 18:20:27.890 [info] > git rev-parse --show-toplevel [15ms]
+2023-02-16 18:20:27.890 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-02-16 18:20:27.892 [info] > git config --get commit.template [4ms]
+2023-02-16 18:20:27.919 [warning] No remotes found in the git config file.
+2023-02-16 18:20:28.115 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [210ms]
+2023-02-16 18:20:28.116 [info] > git remote --verbose [197ms]
+2023-02-16 18:20:28.149 [info] > git status -z -uall [19ms]
+2023-02-16 18:20:28.151 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2023-02-16 18:20:28.230 [info] > git config --get commit.template [55ms]
+2023-02-16 18:20:28.258 [warning] No remotes found in the git config file.
+2023-02-16 18:20:28.267 [info] > git remote --verbose [9ms]
+2023-02-16 18:20:28.267 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [23ms]
+2023-02-16 18:20:28.296 [info] > git status -z -uall [15ms]
+2023-02-16 18:20:28.298 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2023-02-16 18:20:28.662 [info] > git check-ignore -v -z --stdin [68ms]
+2023-02-16 18:20:28.663 [info] > git show --textconv :src/components/Calc.js [34ms]
+2023-02-16 18:20:28.664 [info] > git ls-files --stage -- /home/anton/VSCode/Projects/Web3/calc-ui-web3/client/src/components/Calc.js [20ms]

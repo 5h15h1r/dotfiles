@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "028c107c-2a04-4f48-99c9-0d7ebbfef58b",
+    "colName": "chat",
+    "created": "2023-01-22T18:41:53.384Z",
+    "sortNum": 10000,
+    "folders": []
+  },
+  {
+    "_id": "d860bf50-719a-4e68-9c6d-2b92fe8b31bf",
+    "colName": "user",
+    "created": "2023-01-22T18:44:14.776Z",
+    "sortNum": 20000,
+    "folders": []
+  }
+]

@@ -1,0 +1,20 @@
+2023-02-14 12:33:28.711 [info] Starting worker process with pid 33045 (type: fileWatcher, window: 1).
+2023-02-14 12:33:28.712 [info] Starting worker process with pid 33046 (type: fileWatcher, window: 2).
+2023-02-14 12:33:31.032 [info] Deleted from disk nomicfoundation.hardhat-solidity /home/anton/.vscode/extensions/nomicfoundation.hardhat-solidity-0.6.9
+2023-02-14 12:33:33.185 [warning] No ptyHost heartbeat after 6 seconds
+2023-02-14 12:33:44.334 [info] Worker process with pid 33045 terminated normally (type: fileWatcher, window: 1).
+2023-02-14 13:55:01.460 [info] Worker process with pid 33046 terminated normally (type: fileWatcher, window: 2).
+2023-02-14 13:55:06.008 [info] Starting worker process with pid 40621 (type: fileWatcher, window: 2).
+2023-02-14 14:02:34.840 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2023-02-14 14:02:34.879 [info] Installing extension: bradlc.vscode-tailwindcss
+2023-02-14 14:02:37.815 [info] Extracted extension to /home/anton/.vscode/extensions/.d34cac47-7aa7-4606-badd-ed5646922e53: bradlc.vscode-tailwindcss
+2023-02-14 14:02:37.953 [info] Renamed to /home/anton/.vscode/extensions/bradlc.vscode-tailwindcss-0.9.7
+2023-02-14 14:02:37.957 [info] Extracting completed. bradlc.vscode-tailwindcss
+2023-02-14 14:02:38.111 [info] Extension installed successfully: bradlc.vscode-tailwindcss
+2023-02-14 22:08:21.037 [info] Getting Manifest... fallenmax.mithril-emmet
+2023-02-14 22:08:21.060 [info] Installing extension: fallenmax.mithril-emmet
+2023-02-14 22:08:26.396 [info] Extracted extension to /home/anton/.vscode/extensions/.e6eda6d4-6b9d-4606-b03e-d9735fd2f9a4: fallenmax.mithril-emmet
+2023-02-14 22:08:26.450 [info] Renamed to /home/anton/.vscode/extensions/fallenmax.mithril-emmet-0.7.7
+2023-02-14 22:08:26.453 [info] Extracting completed. fallenmax.mithril-emmet
+2023-02-14 22:08:26.550 [info] Extension installed successfully: fallenmax.mithril-emmet
+2023-02-15 00:33:27.101 [warning] No ptyHost heartbeat after 6 seconds

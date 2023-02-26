@@ -1,0 +1,23 @@
+[Info  - 1:59:23 PM] (42346) Pylance language server 2023.2.20 (pyright cca7588f) starting
+[Info  - 1:59:23 PM] (42346) Server root directory: /home/anton/.vscode/extensions/ms-python.vscode-pylance-2023.2.20/dist
+[Info  - 1:59:23 PM] (42346) Starting service instance "calc-ui-web3"
+[Info  - 1:59:23 PM] (42346) Starting service instance "<default>"
+[Info  - 1:59:23 PM] (42346) No configuration file found.
+[Info  - 1:59:23 PM] (42346) No pyproject.toml file found.
+[Info  - 1:59:23 PM] (42346) Setting pythonPath for service "calc-ui-web3": "/bin/python3"
+[Warn  - 1:59:23 PM] (42346) stubPath /home/anton/VSCode/Projects/Web3/calc-ui-web3/typings is not a valid directory.
+[Info  - 1:59:23 PM] (42346) Assuming Python version 3.10
+[Info  - 1:59:23 PM] (42346) Assuming Python platform Linux
+[Info  - 1:59:23 PM] (42346) Searching for source files
+[Info  - 1:59:23 PM] (42346) No source files found.
+[Info  - 1:59:23 PM] (42346) Background analysis(1) root directory: /home/anton/.vscode/extensions/ms-python.vscode-pylance-2023.2.20/dist
+[Info  - 1:59:23 PM] (42346) Background analysis(1) started
+[Info  - 1:59:23 PM] (42346) No pyproject.toml file found.
+[Info  - 1:59:23 PM] (42346) Setting pythonPath for service "<default>": "/bin/python3"
+[Warn  - 1:59:23 PM] (42346) stubPath typings is not a valid directory.
+[Info  - 1:59:24 PM] (42346) Assuming Python version 3.10
+[Info  - 1:59:24 PM] (42346) Assuming Python platform Linux
+[Info  - 1:59:24 PM] (42346) Searching for source files
+[Info  - 1:59:24 PM] (42346) No source files found.
+[Info  - 1:59:24 PM] (42346) Background analysis(2) root directory: /home/anton/.vscode/extensions/ms-python.vscode-pylance-2023.2.20/dist
+[Info  - 1:59:24 PM] (42346) Background analysis(2) started

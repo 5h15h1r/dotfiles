@@ -1,0 +1,4 @@
+2023-02-14 12:33:29.604 [info] [perf] Render performance baseline is 155ms
+2023-02-14 12:33:37.948 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-02-14 12:33:38.139 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-02-14 12:33:39.477 [warning] UNRESPONSIVE extension host: 'rangav.vscode-thunder-client' took 49.484133843684404% of 100.193ms, saved PROFILE here: 'file:///tmp/exthost-22b63d.cpuprofile'

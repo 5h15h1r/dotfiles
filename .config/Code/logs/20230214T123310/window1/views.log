@@ -1,0 +1,14 @@
+2023-02-14 12:33:21.820 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2023-02-14 12:33:21.820 [info] Added views:workbench.panel.output in workbench.panel.output
+2023-02-14 12:33:21.820 [info] Added views:terminal in terminal
+2023-02-14 12:33:21.820 [info] Added views:outline in workbench.view.explorer
+2023-02-14 12:33:21.820 [info] Added views:workbench.scm in workbench.view.scm
+2023-02-14 12:33:21.820 [info] Added views:workbench.view.search in workbench.view.search
+2023-02-14 12:33:21.820 [info] Added views:timeline in workbench.view.explorer
+2023-02-14 12:33:21.820 [info] Added views:workbench.explorer.fileView in workbench.view.explorer
+2023-02-14 12:33:22.167 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2023-02-14 12:33:23.350 [info] Added views:dockerContainers,dockerImages,dockerRegistries,dockerNetworks,dockerVolumes,vscode-docker.views.dockerContexts,vscode-docker.views.help in workbench.view.extension.dockerView
+2023-02-14 12:33:23.352 [info] Added views:cell-tag in workbench.view.extension.jupyter
+2023-02-14 12:33:23.352 [info] Added views:targetsContainers,devVolumes in workbench.view.remote
+2023-02-14 12:33:23.353 [info] Added views:thunder-client-sidebar in workbench.view.extension.thunder-client
+2023-02-14 12:33:29.699 [info] Added views:workbench.panel.repl.view in workbench.panel.repl

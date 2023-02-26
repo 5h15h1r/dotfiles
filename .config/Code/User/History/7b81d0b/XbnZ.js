@@ -1,0 +1,9 @@
+const fs = require('fs');
+
+let counter = 0
+fs.watch('target.txt', ()=>{
+    counter += 2
+    console.log(`no of changes ${counter/2}`)
+})
+
+console.log("looking file for changes");

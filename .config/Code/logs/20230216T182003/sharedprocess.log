@@ -1,0 +1,10 @@
+2023-02-16 18:20:16.896 [info] Starting worker process with pid 19034 (type: fileWatcher, window: 1).
+2023-02-16 18:20:20.630 [warning] No ptyHost heartbeat after 6 seconds
+2023-02-16 18:20:22.379 [info] Getting Manifest... ms-python.vscode-pylance
+2023-02-16 18:20:22.730 [info] Installing extension: ms-python.vscode-pylance
+2023-02-16 18:20:23.864 [info] Getting Manifest... ms-python.python
+2023-02-16 18:20:35.574 [info] Extracted extension to /home/anton/.vscode/extensions/.4cba9e67-cf1e-4fba-846a-7e47bfd05a27: ms-python.vscode-pylance
+2023-02-16 18:20:35.906 [info] Renamed to /home/anton/.vscode/extensions/ms-python.vscode-pylance-2023.2.30
+2023-02-16 18:20:35.910 [info] Extracting completed. ms-python.vscode-pylance
+2023-02-16 18:20:36.069 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-02-16 18:20:36.127 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.2.20

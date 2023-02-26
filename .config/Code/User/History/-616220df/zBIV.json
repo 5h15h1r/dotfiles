@@ -1,0 +1,85 @@
+[
+  {
+    "book name": "To Kill a Mockingbird",
+    "category": "Fiction",
+    "rent per day": 2.5
+  },
+  {
+    "book name": "The Great Gatsby",
+    "category": "Fiction",
+    "rent per day": 3.0
+  },
+  {
+    "book name": "Pride and Prejudice",
+    "category": "Fiction",
+    "rent per day": 2.0
+  },
+  {
+    "book name": "The Lord of the Rings",
+    "category": "Fantasy",
+    "rent per day": 4.0
+  },
+  {
+    "book name": "Harry Potter and the Philosopher's Stone",
+    "category": "Fantasy",
+    "rent per day": 3.5
+  },
+  { "book name": "The Hobbit", "category": "Fantasy", "rent per day": 3.0 },
+  {
+    "book name": "The Diary of a Young Girl",
+    "category": "Non-Fiction",
+    "rent per day": 2.0
+  },
+  {
+    "book name": "The Autobiography of Malcolm X",
+    "category": "Non-Fiction",
+    "rent per day": 3.0
+  },
+  {
+    "book name": "The 7 Habits of Highly Effective People",
+    "category": "Self-Help",
+    "rent per day": 2.5
+  },
+  {
+    "book name": "How to Win Friends and Influence People",
+    "category": "Self-Help",
+    "rent per day": 3.0
+  },
+  {
+    "book name": "The Lean Startup",
+    "category": "Business",
+    "rent per day": 2.0
+  },
+  { "book name": "Good to Great", "category": "Business", "rent per day": 3.0 },
+  {
+    "book name": "The 4-Hour Work Week",
+    "category": "Business",
+    "rent per day": 2.5
+  },
+  {
+    "book name": "Think and Grow Rich",
+    "category": "Business",
+    "rent per day": 2.0
+  },
+  {
+    "book name": "The Hitchhiker's Guide to the Galaxy",
+    "category": "Science Fiction",
+    "rent per day": 3.0
+  },
+  {
+    "book name": "Ender's Game",
+    "category": "Science Fiction",
+    "rent per day": 3.5
+  },
+  {
+    "book name": "Ready Player One",
+    "category": "Science Fiction",
+    "rent per day": 2.5
+  },
+  {
+    "book name": "Snow Crash",
+    "category": "Science Fiction",
+    "rent per day": 3.0
+  },
+  { "book name": "Dune", "category": "Science Fiction", "rent per day": 2.0 }
+]

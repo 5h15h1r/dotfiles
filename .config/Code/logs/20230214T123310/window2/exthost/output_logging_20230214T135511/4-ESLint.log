@@ -1,0 +1,6 @@
+[Info  - 1:57:14 PM] ESLint server is starting.
+[Info  - 1:57:14 PM] ESLint server running in node v16.14.2
+[Info  - 1:57:14 PM] ESLint server is running.
+[Info  - 1:57:19 PM] ESLint library loaded from: /home/anton/VSCode/Projects/Web3/calc-ui-web3/client/node_modules/eslint/lib/api.js
+Warning: React version was set to "detect" in eslint-plugin-react settings, but the "react" package is not installed. Assuming latest React version for linting.
+[Info  - 1:43:08 AM] ESLint server stopped.

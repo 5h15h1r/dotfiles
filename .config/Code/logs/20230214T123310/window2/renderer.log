@@ -1,0 +1,14 @@
+2023-02-14 12:33:28.839 [info] [perf] Render performance baseline is 160ms
+2023-02-14 13:30:51.999 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-02-14 13:30:52.459 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-02-14 13:31:01.058 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-02-14 13:31:01.082 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-02-14 13:45:55.296 [warning] [File Watcher (parcel)] Watcher shutdown because watched path got deleted (path: /home/anton/VSCode/Projects/Web3/calc)
+2023-02-14 13:45:55.308 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2023-02-14 13:55:07.763 [warning] No search provider registered for scheme: file, waiting
+2023-02-14 13:55:10.800 [info] [perf] Render performance baseline is 175ms
+2023-02-14 22:09:00.957 [error] RequestService#request (browser) - error https://bingsettingssearch.trafficmanager.net/api/Search {}
+2023-02-14 22:09:00.971 [info] Setting search error: XHR failed
+2023-02-14 22:09:00.988 [error] RequestService#request (browser) - error https://bingsettingssearch.trafficmanager.net/api/Search {}
+2023-02-14 22:09:00.988 [info] Setting search error: XHR failed
+2023-02-15 01:30:46.030 [info] UNRESPONSIVE extension host: starting to profile NOW

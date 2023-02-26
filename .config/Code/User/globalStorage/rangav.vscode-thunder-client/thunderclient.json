@@ -1,0 +1,127 @@
+[
+  {
+    "_id": "f9017673-8d71-4746-8787-4f7878e02d26",
+    "colId": "028c107c-2a04-4f48-99c9-0d7ebbfef58b",
+    "containerId": "",
+    "name": "chat req",
+    "url": "http://localhost:3001/api/v1/chat/",
+    "method": "GET",
+    "sortNum": 10000,
+    "created": "2023-01-22T18:41:53.387Z",
+    "modified": "2023-01-23T17:16:41.355Z",
+    "headers": [],
+    "params": [],
+    "auth": {
+      "type": "bearer",
+      "bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzY2QwNmZlNjFiYzEzZDczMDYwM2NjMSIsImlhdCI6MTY3NDQ5MjE5MSwiZXhwIjoxNjc0NTc4NTkxfQ.qo3wIBulH9QaU3Uh0fFDbnGdfk0PwNXCp3D4K3MtLXA"
+    },
+    "tests": []
+  },
+  {
+    "_id": "b7af63f1-5a19-4f9b-b977-f50706d6dfd4",
+    "colId": "d860bf50-719a-4e68-9c6d-2b92fe8b31bf",
+    "containerId": "",
+    "name": "search user",
+    "url": "http://localhost:3001/api/v1/user?search=g",
+    "method": "GET",
+    "sortNum": 10000,
+    "created": "2023-01-22T18:44:14.777Z",
+    "modified": "2023-01-24T05:05:00.150Z",
+    "headers": [],
+    "params": [
+      {
+        "name": "search",
+        "value": "g",
+        "isPath": false
+      }
+    ],
+    "auth": {
+      "type": "bearer",
+      "bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzY2QwNmZlNjFiYzEzZDczMDYwM2NjMSIsImlhdCI6MTY3NDUzNjY5MSwiZXhwIjoxNjc0NjIzMDkxfQ.TG0TZwCGsKFoqTC8kaCEV1MKjtNvoHagaVmTW7AitT0"
+    },
+    "tests": []
+  },
+  {
+    "_id": "f10d5785-517f-4713-bf74-22cf6c279ea1",
+    "colId": "028c107c-2a04-4f48-99c9-0d7ebbfef58b",
+    "containerId": "",
+    "name": "send message",
+    "url": "http://localhost:3001/api/v1/message/",
+    "method": "POST",
+    "sortNum": 20000,
+    "created": "2023-01-23T16:38:08.375Z",
+    "modified": "2023-01-24T04:15:13.072Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"chatId\": \"63ce906f4f351360d05a4970\",\n  \"content\": \"hi \"\n}",
+      "form": []
+    },
+    "auth": {
+      "type": "bearer",
+      "bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzY2QwNmZlNjFiYzEzZDczMDYwM2NjMSIsImlhdCI6MTY3NDQ5MjE5MSwiZXhwIjoxNjc0NTc4NTkxfQ.qo3wIBulH9QaU3Uh0fFDbnGdfk0PwNXCp3D4K3MtLXA"
+    },
+    "tests": []
+  },
+  {
+    "_id": "545f7a8f-ce74-44d6-be9e-3c6040f1281c",
+    "colId": "d860bf50-719a-4e68-9c6d-2b92fe8b31bf",
+    "containerId": "",
+    "name": "user login",
+    "url": "http://localhost:3001/api/v1/user/login",
+    "method": "POST",
+    "sortNum": 20000,
+    "created": "2023-01-23T16:42:10.354Z",
+    "modified": "2023-01-23T16:43:11.522Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"email\": \"guest@example.com\",\n  \"password\": \"123456\"\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "f987442c-e80c-4b27-b35c-90e76269599b",
+    "colId": "028c107c-2a04-4f48-99c9-0d7ebbfef58b",
+    "containerId": "",
+    "name": "getall messages",
+    "url": "http://localhost:3001/api/v1/message/63ce906f4f351360d05a4970",
+    "method": "GET",
+    "sortNum": 30000,
+    "created": "2023-01-23T17:04:28.352Z",
+    "modified": "2023-01-24T04:37:50.936Z",
+    "headers": [],
+    "params": [],
+    "auth": {
+      "type": "bearer",
+      "bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzY2QwNmZlNjFiYzEzZDczMDYwM2NjMSIsImlhdCI6MTY3NDQ5MjE5MSwiZXhwIjoxNjc0NTc4NTkxfQ.qo3wIBulH9QaU3Uh0fFDbnGdfk0PwNXCp3D4K3MtLXA"
+    },
+    "tests": []
+  },
+  {
+    "_id": "4714b8da-e565-4561-aae0-6d1ac38b6d92",
+    "colId": "028c107c-2a04-4f48-99c9-0d7ebbfef58b",
+    "containerId": "",
+    "name": "add to group",
+    "url": "http://localhost:3001/api/v1/chat/groupadd",
+    "method": "PUT",
+    "sortNum": 40000,
+    "created": "2023-01-24T05:01:40.213Z",
+    "modified": "2023-01-24T05:07:45.004Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"chatId\":\"63ce906f4f351360d05a4970\",\n  \"userId\":\"63cf62116a765a4c86cc4e05\"\n}",
+      "form": []
+    },
+    "auth": {
+      "type": "bearer",
+      "bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzY2QwNmZlNjFiYzEzZDczMDYwM2NjMSIsImlhdCI6MTY3NDUzNjY5MSwiZXhwIjoxNjc0NjIzMDkxfQ.TG0TZwCGsKFoqTC8kaCEV1MKjtNvoHagaVmTW7AitT0"
+    },
+    "tests": []
+  }
+]

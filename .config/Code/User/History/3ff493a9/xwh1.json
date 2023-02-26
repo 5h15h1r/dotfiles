@@ -1,0 +1,16 @@
+{
+  "name": "sockchat",
+  "version": "1.0.0",
+  "description": "Chatting Application",
+  "main": "\tserver.js",
+  "scripts": {
+    "start": "cd ../backend && nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shishir Agrahari",
+  "license": "ISC",
+  "dependencies": cd ,
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

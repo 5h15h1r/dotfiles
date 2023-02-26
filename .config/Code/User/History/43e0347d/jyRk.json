@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.fontFamily": "Meslo LG M for Powerline",
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": 1,
+    "javascript.updateImportsOnFileMove.enabled": "always"
+}

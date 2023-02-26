@@ -1,0 +1,10 @@
+2023-02-19 23:50:52.930 [info] Starting worker process with pid 34496 (type: fileWatcher, window: 1).
+2023-02-19 23:50:55.528 [warning] No ptyHost heartbeat after 6 seconds
+2023-02-19 23:50:55.901 [info] Deleted from disk ms-python.vscode-pylance /home/anton/.vscode/extensions/ms-python.vscode-pylance-2023.2.20
+2023-02-19 23:50:57.466 [info] Getting Manifest... rangav.vscode-thunder-client
+2023-02-19 23:50:58.525 [info] Installing extension: rangav.vscode-thunder-client
+2023-02-19 23:51:01.951 [info] Extracted extension to /home/anton/.vscode/extensions/.530c7156-586a-422e-9d9f-ce218a4ecbdf: rangav.vscode-thunder-client
+2023-02-19 23:51:02.062 [info] Renamed to /home/anton/.vscode/extensions/rangav.vscode-thunder-client-2.4.2
+2023-02-19 23:51:02.064 [info] Extracting completed. rangav.vscode-thunder-client
+2023-02-19 23:51:02.226 [info] Extension installed successfully: rangav.vscode-thunder-client
+2023-02-19 23:51:02.267 [info] Marked extension as uninstalled rangav.vscode-thunder-client-2.4.1

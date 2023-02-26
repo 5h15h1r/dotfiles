@@ -1,0 +1,75 @@
+{
+  "nhBits": 10,
+  "books": [
+    {
+      "_id": "63de439c0dab05f201a6d91f",
+      "name": "The Great Gatsby",
+      "category": "Fiction",
+      "rentpday": 3,
+      "__v": 0
+    },
+    {
+      "_id": "63de439c0dab05f201a6d922",
+      "name": "Harry Potter and the Philosopher's Stone",
+      "category": "Fantasy",
+      "rentpday": 3.5,
+      "__v": 0
+    },
+    {
+      "_id": "63de439c0dab05f201a6d923",
+      "name": "The Hobbit",
+      "category": "Fantasy",
+      "rentpday": 3,
+      "__v": 0
+    },
+    {
+      "_id": "63de439c0dab05f201a6d924",
+      "name": "The Diary of a Young Girl",
+      "category": "Non-Fiction",
+      "rentpday": 2,
+      "__v": 0
+    },
+    {
+      "_id": "63de439c0dab05f201a6d925",
+      "name": "The Autobiography of Malcolm X",
+      "category": "Non-Fiction",
+      "rentpday": 3,
+      "__v": 0
+    },
+    {
+      "_id": "63de439c0dab05f201a6d926",
+      "name": "The 7 Habits of Highly Effective People",
+      "category": "Self-Help",
+      "rentpday": 2.5,
+      "__v": 0
+    },
+    {
+      "_id": "63de439c0dab05f201a6d928",
+      "name": "The Lean Startup",
+      "category": "Business",
+      "rentpday": 2,
+      "__v": 0
+    },
+    {
+      "_id": "63de439c0dab05f201a6d92a",
+      "name": "The 4-Hour Work Week",
+      "category": "Business",
+      "rentpday": 2.5,
+      "__v": 0
+    },
+    {
+      "_id": "63de439c0dab05f201a6d921",
+      "name": "The Lord of the Rings",
+      "category": "Fantasy",
+      "rentpday": 4,
+      "__v": 0
+    },
+    {
+      "_id": "63de439c0dab05f201a6d92c",
+      "name": "The Hitchhiker's Guide to the Galaxy",
+      "category": "Science Fiction",
+      "rentpday": 3,
+      "__v": 0
+    }
+  ]
+}

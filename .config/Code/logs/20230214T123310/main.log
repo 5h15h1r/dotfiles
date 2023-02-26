@@ -1,0 +1,13 @@
+2023-02-14 12:33:12.718 [info] update#setState idle
+2023-02-14 12:33:22.078 [info] Starting extension host with pid 32937 (fork() took 11 ms).
+2023-02-14 12:33:22.720 [info] Starting extension host with pid 32940 (fork() took 7 ms).
+2023-02-14 12:33:36.997 [info] Enabling inspect port on extension host with pid 32940.
+2023-02-14 12:33:42.721 [info] update#setState checking for updates
+2023-02-14 12:33:42.735 [info] update#setState available for download
+2023-02-14 12:33:46.258 [info] Extension host with pid 32940 exited with code: 0, signal: null.
+2023-02-14 13:30:49.864 [info] Enabling inspect port on extension host with pid 32937.
+2023-02-14 13:55:02.126 [info] Extension host with pid 32937 exited with code: 0, signal: null.
+2023-02-14 13:55:05.960 [info] Starting extension host with pid 40620 (fork() took 16 ms).
+2023-02-15 01:30:43.837 [info] Enabling inspect port on extension host with pid 40620.
+2023-02-15 01:43:08.970 [info] Waiting for extension host with pid 40620 to exit.
+2023-02-15 01:43:09.494 [info] Extension host with pid 40620 exited with code: 0, signal: null.

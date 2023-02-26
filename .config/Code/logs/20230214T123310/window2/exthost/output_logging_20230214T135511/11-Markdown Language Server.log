@@ -1,0 +1,10 @@
+[Trace 08:00:01.715] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/anton/VSCode/Projects/Web3/calc-ui-web3/client/README.md
+[Trace 08:00:01.716] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/anton/VSCode/Projects/Web3/calc-ui-web3/client/README.md
+[Trace 08:00:01.718] Server: connection.languages.diagnostics.on: file:///home/anton/VSCode/Projects/Web3/calc-ui-web3/client/README.md
+[Trace 08:00:01.722] Server: connection.languages.diagnostics.on: file:///home/anton/VSCode/Projects/Web3/calc-ui-web3/client/README.md
+[Trace 08:00:01.729] DocumentSymbolProvider: provideDocumentSymbols — file:///home/anton/VSCode/Projects/Web3/calc-ui-web3/client/README.md 1
+[Debug 08:00:01.729] LinkProvider: compute - file:///home/anton/VSCode/Projects/Web3/calc-ui-web3/client/README.md
+[Debug 08:00:01.940] TableOfContentsProvider: create - file:///home/anton/VSCode/Projects/Web3/calc-ui-web3/client/README.md
+[Debug 08:00:01.941] MdFoldingProvider: provideFoldingRanges — file:///home/anton/VSCode/Projects/Web3/calc-ui-web3/client/README.md 1
+[Trace 08:00:03.276] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/anton/VSCode/Projects/Web3/calc-ui-web3/client/README.md
+[Trace 08:00:03.277] VsCodeClientWorkspace: deleteDocument: file:///home/anton/VSCode/Projects/Web3/calc-ui-web3/client/README.md
